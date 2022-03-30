@@ -23,3 +23,5 @@ Step 6: Terraform plan
 Step 7: Terraform apply
 
 # Once done, check the Azure portal in target resource group, you'll find the new alert depending if condition is met. 
+
+# Finnally to  deploy the Azure Infra with Terraform folllow this tutorial: https://www.youtube.com/watch?v=JaesylupZa8
